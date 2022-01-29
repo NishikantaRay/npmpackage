@@ -1,12 +1,25 @@
 {
   "name": "package",
   "version": "1.0.0",
-  "description": "",
+  "description": "Best Date and time finder ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishikantaRay/npmpackage.git"
+  },
+  "keywords": [
+    "Date",
+    "Time",
+    "Finder",
+    "Date and Time Finder",
+    "Date Time",
+    "date and time",
+    "Date and time npm package",
+    "npm package for date and time"
+  ],
   "author": "Nishikanta Ray",
   "license": "ISC"
 }
