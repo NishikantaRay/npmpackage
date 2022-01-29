@@ -1,4 +1,4 @@
-function nishi(string) {
-    return string === 'nishi';
+function dt() {
+    return new Date();
 }
-module.exports=nishi;
+module.exports=dt;
